@@ -11,7 +11,7 @@ Android向けアプリケーションにAdMob MediationでZucks Ad Networkの広
 ## パッケージ構成
 
 * libs
-  * Adaperファイル用フォルダ
+  * Adapterファイル用フォルダ
 * README.md
   * 本ファイル
 
@@ -21,7 +21,7 @@ Android2.3以降
 
 ## 導入手順
 
-AdMob Mediationの導入手順に関しては下記ページをご確認ください。
+AdMobメディエーション用Adapterの導入手順に関しては下記ページをご確認ください。
 
 https://ms.zucksadnetwork.com/media/sdk/manual/admob-mediation/
 
