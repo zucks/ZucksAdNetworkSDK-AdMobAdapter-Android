@@ -17,7 +17,7 @@ Android向けアプリケーションにAdMob MediationでZucks Ad Networkの広
 
 ## 対象OS
 
-Android2.3以降
+Android 4.0 以降
 
 ## 導入手順
 
